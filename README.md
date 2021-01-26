@@ -74,4 +74,4 @@ way and better tune and configure the model.
 ## Credits
 [data.world](https://data.world/popculture/donald-glovers-this-is-america-youtube-comments) for the dataset.  
 to the [Dictonary](https://github.com/RobertJGabriel/Google-profanity-words/blob/master/list.txt) of inappropriate words.   
-to the great tutorial for [Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f)
+to the great tutorial for [Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-class-text-classification-with-scikit-learn-12f1e60e0a9f).
