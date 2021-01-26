@@ -43,7 +43,7 @@ for the classification problem, I implement machine learning algorithms:
 3. K-neighbors
 
 ## The Results
-Confiusin Matrix for each algorithm  
+Let's take a look at the Confusion Matrix for each algorithm.  
   
 ![LinearSVC](https://i.ibb.co/zVj6jwC/1212.png)    
 
